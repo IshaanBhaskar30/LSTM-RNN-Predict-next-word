@@ -13,11 +13,11 @@ This project focuses on building a deep learning model to perform binary sentime
 
 ->Builds a deep learning model with:
 
-   o Embedding layer
+    o Embedding layer
 
-   o Bidirectional LSTM layer
+    o Bidirectional LSTM layer
 
-   o Dropout and Dense layers
+    o Dropout and Dense layers
 
 ->Trains the model to classify reviews as positive or negative.
 
@@ -33,4 +33,4 @@ This project focuses on building a deep learning model to perform binary sentime
 
 ->Dropout Layer: Prevents overfitting.
 
-Dense Layers: Final classification layer using sigmoid activation.
+->Dense Layers: Final classification layer using sigmoid activation.
